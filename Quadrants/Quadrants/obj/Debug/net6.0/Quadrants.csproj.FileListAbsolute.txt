@@ -1,0 +1,15 @@
+C:\Users\Onatt\Desktop\Quadrants\Quadrants\obj\Debug\net6.0\Quadrants.csproj.AssemblyReference.cache
+C:\Users\Onatt\Desktop\Quadrants\Quadrants\obj\Debug\net6.0\Quadrants.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Onatt\Desktop\Quadrants\Quadrants\obj\Debug\net6.0\Quadrants.AssemblyInfoInputs.cache
+C:\Users\Onatt\Desktop\Quadrants\Quadrants\obj\Debug\net6.0\Quadrants.AssemblyInfo.cs
+C:\Users\Onatt\Desktop\Quadrants\Quadrants\obj\Debug\net6.0\Quadrants.csproj.CoreCompileInputs.cache
+C:\Users\Onatt\Desktop\Quadrants\Quadrants\bin\Debug\net6.0\Quadrants.exe
+C:\Users\Onatt\Desktop\Quadrants\Quadrants\bin\Debug\net6.0\Quadrants.deps.json
+C:\Users\Onatt\Desktop\Quadrants\Quadrants\bin\Debug\net6.0\Quadrants.runtimeconfig.json
+C:\Users\Onatt\Desktop\Quadrants\Quadrants\bin\Debug\net6.0\Quadrants.dll
+C:\Users\Onatt\Desktop\Quadrants\Quadrants\bin\Debug\net6.0\Quadrants.pdb
+C:\Users\Onatt\Desktop\Quadrants\Quadrants\obj\Debug\net6.0\Quadrants.dll
+C:\Users\Onatt\Desktop\Quadrants\Quadrants\obj\Debug\net6.0\refint\Quadrants.dll
+C:\Users\Onatt\Desktop\Quadrants\Quadrants\obj\Debug\net6.0\Quadrants.pdb
+C:\Users\Onatt\Desktop\Quadrants\Quadrants\obj\Debug\net6.0\Quadrants.genruntimeconfig.cache
+C:\Users\Onatt\Desktop\Quadrants\Quadrants\obj\Debug\net6.0\ref\Quadrants.dll
